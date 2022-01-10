@@ -1,2 +1,2 @@
 # trillo
-Responsive landing page using flexbox
+Responsive user section for a hotel using flexbox
